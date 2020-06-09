@@ -1,6 +1,6 @@
 {
   "name": "tidy-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small lib that offers two ways to filter object properties from target objects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

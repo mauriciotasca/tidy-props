@@ -1,0 +1,27 @@
+{
+  "name": "tidy-props",
+  "version": "1.0.0",
+  "description": "Small lib that offers two ways to filter object properties from target objects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "object",
+    "javascript",
+    "remove",
+    "filter",
+    "exclude",
+    "keep",
+    "delete"
+  ],
+  "author": "Mauricio Correa",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.9.5"
+  }
+}
